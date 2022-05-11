@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+
+}
+
+.about:hover {
+    transform: scale(1.08);
+}
+
+.about {
+    margin-top: 50px;
+    margin-left: 100px;
+}
